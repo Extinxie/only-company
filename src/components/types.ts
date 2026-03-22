@@ -4,7 +4,7 @@ export interface TimePeriod {
   endYear: number;
   events: Event[];
 }
-
+// ...
 export interface Event {
   id: number;
   year: number;
