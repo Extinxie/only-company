@@ -1,1 +1,1 @@
-dcf.sl,a[pdflas[plsa[pflasfs
+for only company (vibecode)
